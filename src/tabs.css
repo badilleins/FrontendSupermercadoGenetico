@@ -1,0 +1,21 @@
+/* App.css */
+.tab-buttons {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    background-color: #3D8D7A;
+}
+  
+  .tab-buttons button {
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .tab-buttons .active {
+    background: #007bff;
+    color: white;
+  }
+
+ 
